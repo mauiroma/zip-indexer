@@ -1,0 +1,1 @@
+mkdir -p /tmp/zipfile && cp ElasticPDF.zip /tmp/zipfile/
